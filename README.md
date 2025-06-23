@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRittika1234%2FRittika1234&psig=AOvVaw2lXzge4tjRKwqlEHec17bR&ust=1750780855451000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCrhoz1h44DFQAAAAAdAAAAABAx![image](https://github.com/user-attachments/assets/422bd833-86a8-453b-8a54-77006360c7b6)
- alt="anshi83"/> 
-
+<img align="right" width="500" height="300"  alt="coding" src="https://tenor.com/view/oleana-pokemon-anime-pokemon-anime-pokemon-twilight-wings-gif-9475880792495177484.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi83&label=Profile%20views&color=0e75b6&style=flat" alt="anshi83" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anshikasin92441" target="blank"><img src="https://img.shields.io/twitter/follow/anshikasin92441?logo=twitter&style=for-the-badge" alt="anshikasin92441" /></a> </p>
