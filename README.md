@@ -1,3 +1,4 @@
+![logo](https://github.com/Anshi83/Anshi83/blob/main/Screen%20Shot%202025-06-23%20at%2010.53.39%20PM.png)
 <h1 align="center">Hey 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" height="350"  alt="coding" src="https://tenor.com/view/pjsk-pjsk-anime-project-sekai-anime-project-sekai-25ji-gif-14260846717863156026.gif">
