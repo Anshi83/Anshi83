@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width="100" height="200"  alt="coding" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707.gif">
+<img align="right" width="400" height="350"  alt="coding" src="https://tenor.com/view/pjsk-pjsk-anime-project-sekai-anime-project-sekai-25ji-gif-14260846717863156026.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi83&label=Profile%20views&color=0e75b6&style=flat" alt="anshi83" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anshikasin92441" target="blank"><img src="https://img.shields.io/twitter/follow/anshikasin92441?logo=twitter&style=for-the-badge" alt="anshikasin92441" /></a> </p>
