@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRittika1234%2FRittika1234&psig=AOvVaw2lXzge4tjRKwqlEHec17bR&ust=1750780855451000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCrhoz1h44DFQAAAAAdAAAAABAx![image](https://github.com/user-attachments/assets/422bd833-86a8-453b-8a54-77006360c7b6)
- alt="anshi83"/> </p>
+ alt="anshi83"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi83&label=Profile%20views&color=0e75b6&style=flat" alt="anshi83" /> </p>
 
