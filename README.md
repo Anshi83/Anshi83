@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<p align="right"><img src="https://images.app.goo.gl/sSt866q4GvYafmyJ8" alt="anshi83"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi83&label=Profile%20views&color=0e75b6&style=flat" alt="anshi83" /> </p>
 
